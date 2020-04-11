@@ -1,4 +1,6 @@
 class Application
+  
+  @@cart = []
 
   @@items = ["Apples","Carrots","Pears"]
 
