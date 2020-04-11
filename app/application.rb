@@ -19,7 +19,6 @@ class Application
     elsif req.path.match(/cart/)
       resp.write "#{item}\n"
     end
-  end
     
     #elsif req.path.match(/add/)
     
